@@ -3,7 +3,9 @@
 ![alt text](https://i.imgur.com/dwgVPXF.png?raw=true)
 
 # Known Issues
-Due to the known issue with the clock being cut off when the taskbar size is set to small, it is broken by design in this project as it is intended to be replaced with Start 11. This will fix the clock issue as well as providing the ability to remove "Recommended" section from the Start Menu, as well as additional transparancy settings.
+- Due to the known issue with the clock being cut off when the taskbar size is set to small, it is broken by design in this project as it is intended to be replaced with Start 11. This will fix the clock issue as well as providing the ability to remove "Recommended" section from the Start Menu, as well as additional transparancy settings.
+
+- Nord Light Mode does not work.
 
 # Manual Procedure
 Font:
@@ -26,11 +28,11 @@ You will need to run the font .reg file, and Applying the Nord theme with ThemeT
 		- VLC Media Player
 		- C:/NORD Directory
 			- Font
-				- Source Code Pro Fonts
+				- Source Code Pro
 				- Registry file to enable font as system default
 			- Cursor
 				- Nord/CakeOS
-			- SecureUX Patcher
+			- SecureUxTheme
 		- Embedded Nord Dark Theme to C:\Windows\Resources\Themes
 		- Added more nordic wallpapers
    		- Alternative Windows 11 wallpaper with Nord colour pallet to C:\Windows\Web\Wallpaper\Windows
@@ -71,3 +73,21 @@ You will need to run the font .reg file, and Applying the Nord theme with ThemeT
 			- Notification Centre
 			- Search
 			- People
+
+# Contributions
+	- Nord Theme by niivu
+		https://www.deviantart.com/niivu/art/Nord-Windows-10-Theme-837266272
+	- CakeOS Cursor by niivu
+		https://www.deviantart.com/niivu/art/cakeOS-Cursors-760664795
+	- Nord Cursor by Abod1969
+		https://www.deviantart.com/abod1960/art/Nord-Cursor-887885140
+	- Wallpaper by Anonymous
+		http://4chan.org/wg
+	- Source Code Pro Font by Paul D. Hunt
+		https://github.com/adobe-fonts/source-code-pro
+	- Windows 11 by Microsoft
+		https://www.microsoft.com/en-ca/software-download/windows11
+	- Start 11 by Stardock
+		https://www.stardock.com/products/start11/
+	- SecureUxTheme by namazso
+		https://github.com/namazso/SecureUxTheme
