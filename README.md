@@ -1,28 +1,29 @@
-# Nordic Windows 11 Pro 22000.593
+# Nordic Minimalist Windows 11 Pro 22000.593
 
 ![alt text](https://i.imgur.com/dwgVPXF.png?raw=true)
 
 # Known Issues
-- Due to the known issue with the clock being cut off when the taskbar size is set to small, it is broken by design in this project as it is intended to be replaced with Start 11. This will fix the clock issue as well as providing the ability to remove "Recommended" section from the Start Menu, as well as additional transparancy settings.
+- Due to the known issue with the clock being cut off when the taskbar size is set to small, it is broken by design in this project, as it is intended to be replaced with Start 11. This will fix the clock issue as well as providing the ability to remove "Recommended" section from the Start Menu, and additional transparancy settings.
 
-- Nord Light Mode does not work.
+- Nord Theme Light Mode does not work.
+
+# Install Procedure
+ISO will boot directly to the Drive Selection screen. Pick a drive/partition and install. Once install is complete, OOBE will load. If you don't have direct internet access, you will be asked to connect to wifi first. If you have direct access, OOBE will load directly to Local Account. Enter a username and password. Everything will finish up and you will be at the Desktop. (slower computer may see the Post-Setup screen still going, but this is normally done in the backgorund before the desktop loads on faster machines). Don't be alarmed, this is just removing Edge, installing Brave and VLC.
 
 # Manual Procedure
-Font:
-
-Navigate to C:\NORD and manually install the Source Code Pro font (select all, right-click, install). Once complete, run the .reg file to set it as the system font (reboot is required).
-
-Theme:
-
-Navigate to C:\NORD and Right-click ThemeTool.exe, open as administrator, Click "Yes". Click the "Install" Button and reboot. Repeat steps for opening ThemeTool.exe and now select the Nord Dark Theme and click "Patch & Apply".
+Post-install instructions can be found in C:\NORD\Install Guide.txt
 
 Additional Info:
 
-You will need to run the font .reg file, and Applying the Nord theme with ThemeTool.exe after every major Windows Update.
+You will need to run the font .reg file, and reapply the Nord theme with ThemeTool.exe after every major Windows Update.
+
+# Download
+## [wiNORD 22000.593](https://drive.google.com/file/d/1-D10yvFcS7nzYEgEPKv6fsyzFz1xsS3U)
+This is NOT activated. You will need to activate this yourself with a Windows 10/11 Pro/Embedded Pro Product Key.
 
 # Changelog
 
-## [v0.1] - Windows 11 Pro 21H2 22000.593
+## [CoreOS] - Windows 11 Pro 21H2 22000.593
 	### Added
 		- Brave Browser
 		- VLC Media Player
@@ -44,7 +45,7 @@ You will need to run the font .reg file, and Applying the Nord theme with ThemeT
 		- Default UI to Full Dark Mode
 		- EST Time Zone as Default
 		- US English as Default
-		- Taskbar set to Small (taskbar clock issue is know, with no fix)
+		- Taskbar set to Small (taskbar clock issue is know, start11 is the fix)
 		- This PC as Default for File Explorer
 		- Windows 10 context menu
 
@@ -55,7 +56,7 @@ You will need to run the font .reg file, and Applying the Nord theme with ThemeT
 		- Setup:
 			- Language Select
 			- EULA
-			- Product Key Input/Version Select
+			- Version Select
 		- OOBE:
 			- Language/Region
 			- Keyboard Select
