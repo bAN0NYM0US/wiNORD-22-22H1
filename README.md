@@ -19,7 +19,7 @@ You will need to run the font .reg file, and reapply the Nord theme with ThemeTo
 
 # Download
 ## [wiNORD 22000.593](https://drive.google.com/file/d/1-D10yvFcS7nzYEgEPKv6fsyzFz1xsS3U)
-This is NOT activated. You will need to activate this yourself with a Windows 10/11 Pro/Embedded Pro Product Key.
+This is NOT activated. You will need to activate this with a Pro Product Key or, for EDUCATIONAL PURPOSE use [EzHWID](https://github.com/ExeCsrss/EzHWID)
 
 # Changelog
 
@@ -32,7 +32,7 @@ This is NOT activated. You will need to activate this yourself with a Windows 10
 				- Source Code Pro
 				- Registry file to enable font as system default
 			- Cursor
-				- Nord/CakeOS
+				- Nord/Oreo/CakeOS
 			- SecureUxTheme
 		- Embedded Nord Dark Theme to C:\Windows\Resources\Themes
 		- Added more nordic wallpapers
@@ -80,9 +80,11 @@ This is NOT activated. You will need to activate this yourself with a Windows 10
 		https://www.deviantart.com/niivu/art/Nord-Windows-10-Theme-837266272
 	- CakeOS Cursor by niivu
 		https://www.deviantart.com/niivu/art/cakeOS-Cursors-760664795
-	- Nord Cursor by Abod1969
+	- Nord Cursor by Abod1960
 		https://www.deviantart.com/abod1960/art/Nord-Cursor-887885140
-	- Wallpaper by Anonymous
+	- Nord Oreo by Abod1960
+		https://www.deviantart.com/abod1960/art/Oreo-Nord-875312546
+	- Wallpapers in Nord Theme by Anonymous
 		http://4chan.org/wg
 	- Source Code Pro Font by Paul D. Hunt
 		https://github.com/adobe-fonts/source-code-pro
