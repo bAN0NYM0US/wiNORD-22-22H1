@@ -25,7 +25,7 @@ This is NOT activated. You will need to activate this with a Pro Product Key or,
 
 # Changelog
 
-## [CoreOS] - Windows 11 Pro 21H2 22000.593
+## Windows 11 Pro 21H2 22000.593
 	### Added
 		- Brave Browser
 		- VLC Media Player
