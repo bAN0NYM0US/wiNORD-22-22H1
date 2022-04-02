@@ -25,35 +25,35 @@ Due to the known issue with the clock being cut off when the taskbar size is set
 	### Changed
 		- Setup boots directly to Drive Selection (details under ### Removed/Setup)
 		- OOBE boots directly to Local Account setup (details under ### Removed/Setup)
-    - Default UI to Full Dark Mode
-    - EST Time Zone as Default
+		- Default UI to Full Dark Mode
+		- EST Time Zone as Default
 		- US English as Default
-    - Taskbar set to Small (taskbar clock issue is know, with no fix)
+		- Taskbar set to Small (taskbar clock issue is know, with no fix)
 		- This PC as Default for File Explorer
-    - Windows 10 context menu
+		- Windows 10 context menu
 
 	### Fixed
 		- Embedded TPM 2.0 Bypass
     
 	### Removed
-    - Setup:
-      - Language Select
-      - EULA
-      - Product Key Input/Version Select
-    - OOBE:
-      - Language/Region
-      - Keyboard Select
-      - Online Account
-      - Telemetry Switches
+		- Setup:
+			- Language Select
+			- EULA
+			- Product Key Input/Version Select
+		- OOBE:
+			- Language/Region
+			- Keyboard Select
+			- Online Account
+			- Telemetry Switches
 		- Microsoft Edge
-    - Microsoft Telemetry
+		- Microsoft Telemetry
 		- Recommended Apps & Settings
-    - Quick Access from File Explorer
-    - Language Packs
+		- Quick Access from File Explorer
+		- Language Packs
 		- Windows Media Player
-    - Taskbar:
-      - Task View
-      - Teams/Chat
-      - Notification Centre
-      - Search
-      - People
+		- Taskbar:
+			- Task View
+			- Teams/Chat
+			- Notification Centre
+			- Search
+			- People
