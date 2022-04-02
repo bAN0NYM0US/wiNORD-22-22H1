@@ -3,6 +3,11 @@
 # Known Issues
 Due to the known issue with the clock being cut off when the taskbar size is set to small, it is broken by design in this project as it is intended to be replaced with Start 11. This will fix the clock issue as well as providing the ability to remove "Recommended" section from the Start Menu, as well as additional transparancy settings.
 
+# Manual Procedure
+After installation is complete, you will need to navigate to C:\NORD and manually install the Source Code Pro font, and then run the .reg file to set it as the system font (reboot is required after). Next you will have to Right-click ThemeTool.exe as administrator, Click "Yes". Click the "Install" Button and reboot. Repeat steps for opening ThemeTool.exe and now select the Nord Theme and click "Patch & Apply".
+Optional step is to install AutoDarkMode and configure to automatically switch based on sunrise/sunset or at a specific time.
+Running the font .reg file, and Applying the Nord theme will need to be done again after every major Windows Update.
+
 # Changelog
 
 ## [v0.1] - Windows 10 LTSC IoT 19044.1620
