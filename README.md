@@ -1,5 +1,7 @@
 # Nordic Windows 11 21H2 Pro 22000.593
 
+![alt text](https://i.imgur.com/dwgVPXF.png?raw=true)
+
 # Known Issues
 Due to the known issue with the clock being cut off when the taskbar size is set to small, it is broken by design in this project as it is intended to be replaced with Start 11. This will fix the clock issue as well as providing the ability to remove "Recommended" section from the Start Menu, as well as additional transparancy settings.
 
