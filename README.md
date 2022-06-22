@@ -7,6 +7,9 @@
 
 - Nord Theme Light Mode does not work.
 
+- Maximizing a Window does not work correctly. You need to Maximize, Minimise to Taskbar, and Click it again for it to go full screen.
+	This is an issue with SecureUX Patcher, nothing can be done until the programme is updated for Windows 11.
+
 # Install Procedure
 ISO will boot directly to the Drive Selection screen. Pick a drive/partition and install. Once install is complete, OOBE will load. If you don't have direct internet access, you will be asked to connect to wifi first. If you have direct access, OOBE will load directly to Local Account. Enter a username and password. Everything will finish up and you will be at the Desktop. (slower computer may see the Post-Setup screen still going, but this is normally done in the backgorund before the desktop loads on faster machines). Don't be alarmed, this is just removing Edge, installing Brave and VLC.
 
